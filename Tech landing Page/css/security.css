@@ -1,0 +1,14 @@
+.container__security{
+    display: flex;
+    align-items: center;
+}
+.container__security__text{
+    margin-left: 100px;
+    
+}
+.container__security__subtitle{
+    color: var(--font-color);
+    font-family: var(--font-main);
+    font-size: 29px;
+    margin-bottom: 50px;
+}

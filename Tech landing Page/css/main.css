@@ -1,0 +1,24 @@
+@import url(/css/header.css);
+@import url(/css/home.css);
+@import url(/css/security.css);
+@import url(/css/smart.css);
+@import url(/css/mode.css);
+@import url(/css/tech.css);
+@import url(/css/monitor.css);
+@import url(/css/about.css);
+@import url(/css/house.css);
+@import url(/css/footer.css);
+:root{
+    --font-main: 'AudioWide';
+    --font-second: 'Montserrat';
+    --font-color: #ffffff;
+}
+body{
+    background-image: url(/img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3% 10%;
+}
+html {
+    scroll-behavior: smooth;
+  }
