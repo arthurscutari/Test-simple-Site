@@ -1,11 +1,14 @@
 .container__mode{
-    margin-top: 40px;
+    height: 1100px;
+    width: 1440px;
+    margin-top: 100px;
     text-align: center;
 }
 .container__mode__collun__flex{
     margin-top: 50px;
     display: flex;
     justify-content: space-around;
+
 }
 .container__mode__title{
     color: var(--font-color);
@@ -15,6 +18,7 @@
     letter-spacing: 4px;
     font-family: var(--font-second);
     font-weight: 600;
+    padding-bottom: 60px;
 }
 .container__mode__collun{
     background-color: #66119781;
@@ -55,4 +59,12 @@
     height: 240px;
     width: 240px;
     object-fit: contain;
+}
+.container__mode__out__text{
+    color: var(--font-color);
+    font-family: var(--font-second);
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0 35px;
+    margin: 120px 0;
 }

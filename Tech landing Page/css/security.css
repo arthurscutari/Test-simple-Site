@@ -1,6 +1,16 @@
 .container__security{
     display: flex;
     align-items: center;
+    height: 900px;
+    width: 1440px;
+}
+.container__security__collun{
+    padding: 50px 10px 0 120px;
+    width: 50%;
+}
+.container__security__collun__2{
+    padding: 50px 120px 0 10px;
+    width: 50%;
 }
 .container__security__text{
     margin-left: 100px;
@@ -11,4 +21,9 @@
     font-family: var(--font-main);
     font-size: 29px;
     margin-bottom: 50px;
+}
+.image__security{
+    height: 500px;
+    width: 500px;
+    object-fit: contain;
 }

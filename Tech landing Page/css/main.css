@@ -17,8 +17,9 @@ body{
     background-image: url(/img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 3% 10%;
+    height: 7500px;
+    width: 1440px;
 }
 html {
     scroll-behavior: smooth;
-  }
+ }

@@ -1,7 +1,9 @@
 .container__header{
     display:flex;
+    width: 1440px;
+    height: 150px;
     align-items: center;
-    
+    justify-content: center;
 }
 .container__list{
     display: flex;
